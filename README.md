@@ -8,31 +8,11 @@
   <br/>
 
 
-https://github.com/danielochuba/hospital_app/assets/81446846/1a57fe07-111e-4bd0-a88f-a1305c062f16
-
+https://drive.google.com/file/d/1iz-zLn0fJkZnzdOsdnHWUsxVivG7nDQM/view?usp=drive_link
 
 </div>
 
 
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
 
 # 📖 [HOSPITAL APP] <a name="about-project"></a>
 
@@ -46,29 +26,6 @@ https://github.com/danielochuba/hospital_app/assets/81446846/1a57fe07-111e-4bd0-
 4- Gitflow<br>
 5- Rubocop<br>
 6- RSpec
-
-### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="www.makerble.com/">Makerble</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Rails</summary>
-  <ul>
-    <li><a href="https://www.rubyonrails.org/">Ruby on Rails</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 ### Key Features <a name="key-features"></a>
 
@@ -84,7 +41,7 @@ https://github.com/danielochuba/hospital_app/assets/81446846/1a57fe07-111e-4bd0-
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Sorry I have exhausted my Render database, I cannot deply this at the moment]()
+- [Sorry I have exhausted my Render database, I cannot deploy this at the moment]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,13 +97,6 @@ for a detailed test info
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="authors"></a>
-
-> 👤 Daniel Ochuba Ugochukwu**
-
-- GitHub: [@danielochuba](https://github.com/danielochuba)
-- Twitter: [@ochuba_daniel](https://twitter.com/ochuba_daniel)
-- LinkedIn: [Daniel Ochuba](https://www.linkedin.com/in/daniel-ochuba-ugochukwu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,36 +106,3 @@ for a detailed test info
 - [ ] **Thorough Styling**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/danielochuba/hospital_app/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ⭐️ Show your support <a name="support"></a>
-
-If you like this project, please give me a like, it doesn't cost you anything and it helps me a lot to keep working.
-
-## ❓ FAQ <a name="faq"></a>
-
-- **["How can I see more projects associated with these authors?"]**
-
-   - Check my [@danielochuba](https://github.com/danielochuba)
-
-- **[How can I contact the authors of this project?]**
-
-    - Email me at danielochuba78@gmail.com
-
-  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
- 
